@@ -47,7 +47,7 @@ NO EXPRESS OR IMPLIED LICENSES TO ANY PARTY'S PATENT RIGHTS ARE GRANTED BY THIS 
 ####	Software Requirements
 -	JDK 1.8 or more
 -	Android Studio 3.4.2
--	Android SDK v28 (minimum)
+-	Android SDK v29 (minimum)
 -	Minimum Android version 16
 -	Gradle 5.4.1
 -	Android Gradle Plugin version 3.5.1
